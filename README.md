@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning HTML, CSS 
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me @Favour.adewole1@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
 <!---
